@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+
+.contact {
+    max-width: 700px;
+    margin: 15rem auto;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    @media screen and (max-width: 768px){
+      position: relative;
+      top: -25rem;
+    }
+    @media screen and (max-width: 1080px){
+      position: relative;
+      top: -8rem;
+      // display: none;
+    }
+    .contact-title {
+      color: var(--theme-color);
+      font-size: var(--tbase);
+      font-family: 'Fira Code', monospace;
+      font-weight: 300;
+      &::before {
+        counter-increment: title;
+        content: "04" ".";
+        margin-right: 0.5rem;
+        color: var(--theme-color);
+      }
+    }
+    .contact-sub-title {
+      font-size: var(--tgiant);
+      font-family: "Raleway", sans-serif;
+      color: var(--light-slate);
+    }
+    .contact-text {
+      color: var(--slate);
+      font-size: var(--tlarge);
+      letter-spacing: 0.07rem;
+      line-height: 1.6rem;
+      font-weight: 500;
+      font-family: "Raleway", sans-serif;
+      text-align: center;
+    }
+    .contact-cta {
+      margin-top: 1rem;
+      .btn {
+        padding: 1rem 2rem;
+      }
+    }
+  }
