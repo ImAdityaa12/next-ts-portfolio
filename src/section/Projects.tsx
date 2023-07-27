@@ -16,7 +16,7 @@ const Projects = () => {
       projectTech: ["React", "Redux Toolkit", "SCSS", "TMDB API", "JavaScript"],
       projectExternalLinks: {
         github: "https://github.com/ImAdityaa12/CinemaVerse",
-        externalLink: "https://github.com/ImAdityaa12/CinemaVerse",
+        externalLink: "https://cinemaverseaditya.netlify.app/",
       },
     },
     {
