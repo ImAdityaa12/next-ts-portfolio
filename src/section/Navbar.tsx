@@ -117,7 +117,7 @@ const Navbar = () => {
                     delay: 0.6,           
                   }}
               >
-                <Button text="Download CV" link="https://aditya-portfolio-nextjs.netlify.app/resume.pdf" />
+                <Button text="Download CV" link="https://aditya-portfolio-nextjs.netlify.app/CV.pdf" />
               </motion.div>
             </div>
         </div>
