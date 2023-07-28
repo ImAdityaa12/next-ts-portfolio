@@ -59,7 +59,7 @@ const Hero = () => {
           delay: 1.65,
         }}
         >
-            <Button text='Download Resume' link='http://localhost:3000/resume.pdf'/>
+            <Button text='Download CV' link='https://aditya-portfolio-nextjs.netlify.app/resume.pdf'/>
             
         </motion.div>
     </div>
