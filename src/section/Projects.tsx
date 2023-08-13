@@ -41,7 +41,7 @@ const Projects = () => {
     {
       image: "/MetaVersus.png",
       projectName: "Meta Versus",
-      projectLink: "",
+      projectLink: "https://metaversus-aditya.netlify.app/",
       projectDescription:
         "MetaVersus is a cutting-edge Next.js 13 website, enriched with Framer Motion and Tailwind CSS. This modern platform captivates users with fluid animations, seamless transitions, and interactive elements. Leveraging Next.js 13's latest features, MetaVersus delivers an engaging user experience, while Framer Motion and Tailwind CSS contribute to its stylish and responsive design.",
       projectTech: [
@@ -52,8 +52,8 @@ const Projects = () => {
         "Next Js",
       ],
       projectExternalLinks: {
-        github: "",
-        externalLink: "",
+        github: "https://github.com/ImAdityaa12/MetaVerses-App",
+        externalLink: "https://metaversus-aditya.netlify.app/",
       },
     },
   ];
