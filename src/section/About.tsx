@@ -39,9 +39,9 @@ const About = () => {
             <Link
               className="link"
               target="_blank"
-              href="https://frontendvita.com"
+              href="https://metaversus-aditya.netlify.app/"
             >
-              MetaApp,
+              MetaVersus,
             </Link>
             &nbsp;aimed at enhancing frontend development skills.
           </p>
