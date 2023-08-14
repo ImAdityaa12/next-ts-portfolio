@@ -53,7 +53,7 @@ const Experience = () => {
     {
       name: "Meta Versus",
       role: "Front End Designer",
-      url: "NA",
+      url: "https://metaversus-aditya.netlify.app/",
       start: "July 2023",
       end: "Present",
       shortDescription: [
