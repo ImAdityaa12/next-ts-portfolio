@@ -59,8 +59,8 @@ const About = () => {
             <li className="about-grid-info-list-item">Tailwind Css</li>
             <li className="about-grid-info-list-item">Scss</li>
             <li className="about-grid-info-list-item">Figma</li>
-            <li className="about-grid-info-list-item">Adobe After Effects</li>
-            <li className="about-grid-info-list-item">Adobe Premiere Pro</li>
+            <li className="about-grid-info-list-item">After Effects</li>
+            <li className="about-grid-info-list-item">Premiere Pro</li>
           </ul>
           </div>
         <div className="about-grid-photo">
