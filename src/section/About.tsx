@@ -49,15 +49,18 @@ const About = () => {
             Here are a few technologies I’ve been working with recently:
           </p>
           <ul className="about-grid-info-list">
-            <li className="about-grid-info-list-item">React</li>
-            <li className="about-grid-info-list-item">React Native</li>
-            <li className="about-grid-info-list-item">Next.js</li>
-            <li className="about-grid-info-list-item">Typescript</li>
-            <li className="about-grid-info-list-item">Redux Toolkit</li>
-            <li className="about-grid-info-list-item">Sass</li>
-            <li className="about-grid-info-list-item">Figma</li>
-            <li className="about-grid-info-list-item">Tailwind Css</li>
+            <li className="about-grid-info-list-item">HTML</li>
             <li className="about-grid-info-list-item">CSS</li>
+            <li className="about-grid-info-list-item">JavaScript</li>
+            <li className="about-grid-info-list-item">TypeScript</li>
+            <li className="about-grid-info-list-item">React</li>
+            <li className="about-grid-info-list-item">Next js</li>
+            <li className="about-grid-info-list-item">Redux Toolkit</li>
+            <li className="about-grid-info-list-item">Tailwind Css</li>
+            <li className="about-grid-info-list-item">Scss</li>
+            <li className="about-grid-info-list-item">Figma</li>
+            <li className="about-grid-info-list-item">Adobe After Effects</li>
+            <li className="about-grid-info-list-item">Adobe Premiere Pro</li>
           </ul>
           </div>
         <div className="about-grid-photo">
