@@ -56,6 +56,23 @@ const Projects = () => {
         externalLink: "https://metaversus-aditya.netlify.app/",
       },
     },
+    {
+      image: "/NikePage.png",
+      projectName: "Nike Landing Page",
+      projectLink: "https://nike-landingpage-tailwindcss-aditya.netlify.app/",
+      projectDescription:
+        "I developed a responsive Nike website frontend using React and Tailwind CSS. The website features a modern and user-friendly interface that is compatible with all screen sizes. I implemented a variety of React components and Tailwind CSS classes to create a visually appealing and functional website. I deployed the website to Netlify for easy access and scalability. This project demonstrates my skills in React, Tailwind CSS, and web development. It also shows my ability to design and implement a user-centric interface.",
+      projectTech: [
+        "HTML",
+        "Tailwind CSS",
+        "JavaScript",
+        "React",
+      ],
+      projectExternalLinks: {
+        github: "https://github.com/ImAdityaa12/Nike-Landing-Page-React-and-Tailwind-CSS-",
+        externalLink: "https://nike-landingpage-tailwindcss-aditya.netlify.app/",
+      },
+    },
   ];
   return (
     <div className="projects" id="work">
