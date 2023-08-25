@@ -118,9 +118,9 @@ const Projects = () => {
                 <div className="project-info">
                   <p className="project-info-overline">Featured Project</p>
                   <h3 className="project-info-title">{projectName}</h3>
-                  {/* <div className="project-info-description">
+                  <div className="project-info-description">
                     <p>{projectDescription}</p>
-                  </div> */}
+                  </div>
                   <ul className="project-info-tech-list">
                     {projectTech.map((tech) => (
                       <li className="project-info-tech-list-item" key={tech}>
