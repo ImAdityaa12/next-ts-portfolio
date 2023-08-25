@@ -224,6 +224,9 @@
             flex-direction: column;
             justify-content: flex-end;
             padding-bottom: 1rem;
+            .project-info-description{
+              display: none;
+            }
           }
         }
       }
